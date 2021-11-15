@@ -4,7 +4,7 @@ This is a workshop designed to teach beginners how to write a Technical Design D
 
 <details>
   <summary>About</summary>
-  I'm a Senior Software Engineer at [ClassPass](http://classpass.com/) and an Alchemy Code Lab graduate (2017). One of the biggest challenges I faced as a new engineer was learning how to pause before coding, plan my work and collaborate with my co-workers.
+  I'm a Senior Software Engineer at ClassPass and an Alchemy Code Lab graduate (2017). One of the biggest challenges I faced as a new engineer was learning how to pause before coding, plan my work and collaborate with my co-workers.
 
   Since there aren't any hard-set industry standards for designing software, nor could there be, a common practice is to create a technical document explaining your how you plan to tackle your project.
 
@@ -17,7 +17,7 @@ This is a workshop designed to teach beginners how to write a Technical Design D
 
 <details>
   <summary>Presentation</summary>
-  View the [slides](https://tdd-workshop.github.io) for my talk or read the [markdown](presentation.md).
+  View the slides: https://christylaguardia.github.io/tdd-workshop/
 
   The presentation is written in markdown and converted to html using [Marp](https://marp.app/). See the [Marp docs](https://marpit.marp.app/markdown) for markdown syntax.
 
@@ -29,7 +29,7 @@ This is a workshop designed to teach beginners how to write a Technical Design D
      brew install marp-cli
      ```
 
-  1. Convert markdown to html
+  2. Convert markdown to html
 
      ```bash
      marp presentation.md -o index.html

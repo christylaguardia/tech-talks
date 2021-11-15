@@ -6,7 +6,7 @@ Author: ?
 
 ## What are you building?
 
-Describe what problem are you trying to solve, what you are trying to build or what it is you are trying to do. Give an overview of the functionality.
+<!-- Describe what problem are you trying to solve, what you are trying to build or what it is you are trying to do. Give an overview of the functionality. -->
 
 ?
 
