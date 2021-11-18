@@ -23,7 +23,7 @@ marp: true
 
 ```js
 {
-  2012: "Learned to code as a mechanical engineering tech.",
+  2008: "Learned to code as a mechanical engineering tech.",
   2014: "Moved into a analysis and DBA role.",
   2015: "Major life changes.",
   2016: "Started Code Fellows bootcamp while working full-time, nights & weekends.",
