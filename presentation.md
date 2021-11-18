@@ -12,11 +12,36 @@ marp: true
   - Where are you in the program?
   - What did you do before code school?
   - Have you ever heard of a TDD?
+  For the workshop:
+  - Conformable with git work flow?
+  - PR reviews?
+  - Markdown?
 -->
 
 ---
+# My coding journey
 
-# We'll cover...
+```js
+{
+  2012: "Learned to code as a mechanical engineering tech.",
+  2014: "Moved into a analysis and DBA role.",
+  2015: "Major life changes.",
+  2016: "Started Code Fellows bootcamp while working full-time, nights & weekends.",
+  2017: [
+    "Graduated from ACL advanced program.",
+    "Humble brag: first student to get a real client for final project",
+    "TA‘d after graduation",
+    "First to work in AppLab."
+  ],
+  2018: "Recruited by ClassPass, frontend focused.",
+  2021: "Started doing full-stack projects.",
+  2021: "Made it to Senior! Building out a new team and volunteering."
+}
+```
+
+---
+
+# We'll cover
 
 1. What is it?
 2. Why is it needed?
@@ -229,7 +254,7 @@ Consider doing some research, exploratory work or a spike with the goal to gathe
 (See the [discovery template](templates/discovery.md).)
 
 ---
-
+<!-- _backgroundColor: #2222 -->
 # Example 1
 
 You have been asked to add a “Get in touch” button to an existing web page.
@@ -246,7 +271,7 @@ When clicked, this button will open up the the existing “Contact Us” page in
 -->
 
 ---
-
+<!-- _backgroundColor: #2222 -->
 # Example 2
 
 In addition, you’ve been asked to add a form to the “Contact Us” page, so that the user can submit their message without using email.
@@ -262,7 +287,7 @@ In addition, you’ve been asked to add a form to the “Contact Us” page, so 
 -->
 
 ---
-
+<!-- _backgroundColor: #2222 -->
 # Example 3
 
 To allow the customer service team to reply to the “Contact Us” messages, they should be distributed evenly to customer service representatives. Ensure that messages are replied to in the order received and priority. Customer service team managers should be able to view all incoming and outgoing messages, and the messages assigned to each representatives. Also, we’d like to see a dashboard with a summary of total messages received and sent, so we can monitor work load and track growth.
@@ -320,7 +345,7 @@ Any future work? Maintenance?
 
 ---
 
-# Other TDD Tips
+# TDD Tips
 
 ---
 
@@ -328,13 +353,13 @@ Any future work? Maintenance?
 
 Using T-Shirt sizes to give estimates of LOE is really helpful when you can’t give exact estimates.
 
-Size | Example Time Estimate
--- | --
-XS | 1 or 2 days
-S | 1 week
-M | 2 weeks
-L | 4 weeks
-XL | Anything more
+| Size | Example Time Estimate |
+| ---- | --------------------- |
+| XS   | 1 or 2 days           |
+| S    | 1 week                |
+| M    | 2 weeks               |
+| L    | 4 weeks               |
+| XL   | Anything more         |
 
 ---
 
@@ -369,7 +394,7 @@ XL | Anything more
 7. Make a decision and start coding!
 
 ---
-
+<!-- _backgroundColor: #2222 -->
 # Examples
 
 - [Simple](/templates/simple-example.md)
