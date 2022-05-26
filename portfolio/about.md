@@ -1,6 +1,8 @@
 # Creating Portfolios for Engineers
 
-Made with :heart: by [Christy La Guardia](https://christylaguardia.com/)
+_Watch my talk at [Women Who Code CONNECT Recharge 2022](https://hopin.com/events/connect-recharge-2022/registration)!_
+
+I rebuilt [my portfolio site](https://christylaguardia.com/projects) over a dozen times! Why? Because I didn’t know what to avoid when creating one! If you’re in job hunting mode a well-crafted portfolio could help you stand out. In this talk, I’ll show all the mistakes I made and how you can avoid them.
 
 ## Avoid these mistakes I made
 
@@ -11,8 +13,6 @@ Made with :heart: by [Christy La Guardia](https://christylaguardia.com/)
 5. Over and under designing my portfolio.
 6. Don’t bury your contact info.
 7. Not sharing it!
-
-_Watch my talk at [Women Who Code CONNECT Recharge 2022](https://hopin.com/events/connect-recharge-2022/registration)!_
 
 ## Resources
 
