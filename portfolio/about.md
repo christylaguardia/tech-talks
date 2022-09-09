@@ -67,6 +67,7 @@ I rebuilt [my portfolio site](https://christylaguardia.com/projects) over a doze
 
 #### My favorites
 
+* [Martin Gauer](https://martingauer.com/)
 * [David Calle](https://davidcalle.webflow.io/)
 * [Eva Habermann](https://www.eva-habermann.com/)
 * [Joshua Kaplan](https://www.joshuakaplan.com/)
